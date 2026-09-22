@@ -42,7 +42,14 @@ public class A_HelloWorld {
         System.out.println("My age is " + 25);          // My age is 25
         System.out.println("Random " + 10 + 30);        //Random 1030
         // ^ reason, addition happens left to right, -->"Random "+ 10 + 30 --> "Ransom 10" + 30 --> "Random 1030"
-        System.out.print(10 + 30 + " Random");          // 40 Random
+        System.out.println(10 + 30 + " Random");          // 40 Random
+
+
+        //Escape characters -- to print " , ' etc
+        System.out.println("\'10\'");       // '10'
+
+
+//        Data types
 
 
 
