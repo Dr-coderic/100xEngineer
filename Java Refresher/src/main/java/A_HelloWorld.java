@@ -50,7 +50,10 @@ public class A_HelloWorld {
 
 
 //        Data types
-
+//          String, "-"
+//        Numbers - int, short, long, byte, double, float
+//        char
+//
 
 
 
